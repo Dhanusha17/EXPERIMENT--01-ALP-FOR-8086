@@ -1,9 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-# Name:DHANUSHA K
+Name:DHANUSHA K
  
-# Roll no:212223040034
+Roll no:212223040034
 
-# Date of experiment :22-08-2024
+ Date of experiment :22-08-2024
 
 
 

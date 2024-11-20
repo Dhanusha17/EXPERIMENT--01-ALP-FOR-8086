@@ -18,10 +18,12 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 ![image](https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.png)
 
-9.	Click on emulate to start emulation 
+9.	Click on emulate to start emulation
+10.	
 ![image](https://user-images.githubusercontent.com/36288975/189273273-9bb36ec1-e2e8-4892-8d35-37707332bfdc.png)
 
-10.	If no errors are found click on run the program and check the status of various flags in the flags tab as shown below 
+11.	If no errors are found click on run the program and check the status of various flags in the flags tab as shown below
+12.	
 ![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
 
 ## Programs for arithmetic  operations
@@ -34,6 +36,7 @@ ADD ax,bx;
 HLT
 ```
 ## Output  
+
 ![Screenshot 2024-08-22 184443](https://github.com/user-attachments/assets/f1c03d8f-5d32-474a-b08d-286d785818a6)
 
 ## Subtraction   of 8 bit numbers  ALP 
@@ -45,6 +48,7 @@ SUB ax,bx;
 HLT
 ```
 ## Output 
+
 ![Screenshot 2024-08-22 184620](https://github.com/user-attachments/assets/a1e8dc57-80d1-4a88-b2ac-2848dc766bba)
 
 ## Multiplication alp 
@@ -55,7 +59,8 @@ MOV bx,25;
 MUL bx;
 HLT
 ```
-## Output  
+## Output
+
 ![Screenshot 2024-08-22 184804](https://github.com/user-attachments/assets/1c3f5e79-47d4-4a0c-a624-8e2486189671)
 
 ## Division alp 
@@ -67,6 +72,7 @@ DIV bx;
 HLT
 ```
 ## Output  
+
 ![Screenshot 2024-08-22 185024](https://github.com/user-attachments/assets/6dbf8ae8-2ec2-4d84-82b2-fc7251a930a8)
 
 ## Result :
